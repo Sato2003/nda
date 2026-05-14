@@ -1,0 +1,28 @@
+.login-card {
+  background: white;
+  border-radius: 16px;
+  border: none !important;
+  box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1);
+}
+
+.login-input {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #e5e7eb !important;
+  border-radius: 10px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.login-input:focus {
+  border-color: #667eea !important;
+}
+
+.login-tab {
+  border: none !important;
+  background: transparent;
+}
+
+.login-divider {
+  border-top: 1px solid #e5e7eb !important;
+}
